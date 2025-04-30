@@ -1,0 +1,56 @@
+.exercicio {
+    background-color: #f1f7fb;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif;
+    color: #4a5362;
+    transition: background-color 0.3s ease;
+  }
+  
+  .exercicio:hover {
+    background-color: #e8f1f7;
+  }
+  
+  .exercicio strong {
+    font-size: 18px;
+    color: #04707e;
+    font-weight: bold;
+  }
+  
+  .exercicio p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+  
+  .exercicio code {
+    background-color: #f5f5f5;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #d63b00;
+    border: 1px solid #ddd;
+  }
+  
+  button {
+    background-color: #1995AD;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #157a93;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
